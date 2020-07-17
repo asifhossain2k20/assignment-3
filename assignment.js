@@ -103,6 +103,6 @@ function tinyFriend(names){
     }
 
 
-    var names=["Asif","Hossain","Mahbub"]; //input here
+    var names=["Asif","Hossain","jhonkar Vai"]; //input here
     tinyFriend(names);
     
